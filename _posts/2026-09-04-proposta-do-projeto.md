@@ -35,9 +35,3 @@ Para garantir respostas rápidas no controle dos motores sem interrupções prov
 
 ---
 
-## Próximos Passos
-
-Nas próximas postagens, compartilharemos:
-1. Montagem do kit de chassi 2WD e testes iniciais de movimentação.
-2. Calibração dos sensores infravermelhos de linha.
-3. Integração e testes do sistema operacional FreeRTOS.
