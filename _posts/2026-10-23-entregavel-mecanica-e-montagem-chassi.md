@@ -56,5 +56,5 @@ Com a estrutura mecânica montada e validada, as próximas etapas focarão na el
 
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/diagrama_mecanico.svg" alt="Diagrama Mecânico e Elétrico" width="100%">
+  <img src="/BlogGASr/assets/images/diagrama_mecanico.svg" alt="Diagrama Mecânico e Elétrico" width="100%">
 </p>
