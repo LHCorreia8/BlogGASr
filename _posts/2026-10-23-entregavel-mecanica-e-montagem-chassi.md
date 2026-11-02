@@ -58,3 +58,13 @@ Com a estrutura mecânica montada e validada, as próximas etapas focarão na el
 <p align="center">
   <img src="/BlogGASr/assets/images/diagrama_mecanico.svg" alt="Diagrama Mecânico e Elétrico" width="100%">
 </p>
+
+
+<p align="center">
+  <img src="/BlogGASr/assets/images/DiagramaCarrinho.jfif" alt="Diagrama de montagem" width="100%">
+</p>
+
+
+<p align="center">
+  <img src="/BlogGASr/assets/images/Foto_carrinho.jpeg" alt="Foto do estado atual do projeto" width="100%">
+</p>
