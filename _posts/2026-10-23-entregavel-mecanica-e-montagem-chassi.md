@@ -53,3 +53,8 @@ Com a estrutura mecânica montada e validada, as próximas etapas focarão na el
 1. Fixação do conjunto de sensores infravermelhos (QRE1113/TCRT5000) na parte inferior do chassi para o segue-linha.
 2. Montagem e teste de acionamento dos motores via PWM com o driver Ponte H.
 3. Fixação do suporte mecânico para os sensores ambientais (BME280 e MQ-135) no nó Mestre.
+
+
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/diagrama_mecanico.svg" alt="Diagrama Mecânico e Elétrico" width="100%">
+</p>
